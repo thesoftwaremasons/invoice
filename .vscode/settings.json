@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b53e0add-a44a-4df5-9c48-2399f269c105/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/isat-invoice",
+    "appService.deploySubpath": ""
+}
